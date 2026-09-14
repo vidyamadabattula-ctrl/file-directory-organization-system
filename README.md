@@ -42,12 +42,14 @@ Root Folder
     └── Subfolder 2.2
 
 ## Future Improvements
-Support unlimited directory levels
-Add folder search functionality
-Add folder deletion
-Display the complete directory tree
-Add file support
-Provide an interactive directory navigation system
+- Support unlimited directory levels
+- Add folder search functionality
+- Add folder deletion
+- Display the complete directory tree
+- Add file support
+- Provide an interactive directory navigation system
 
 ## Author
 Vidya Madabattula
+## Demo
+![File Directory Organization System](Demo.png)
